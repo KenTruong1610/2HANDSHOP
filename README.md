@@ -1,4 +1,4 @@
-# ĐỒ ÁN HTHTQL - CỬA HÀNG 2HANDSHOP
+# ĐỒ ÁN HTTTQL - CỬA HÀNG 2HANDSHOP
 
 Dự án này là một hệ thống mô phỏng hình thức quản lý 1 cửa hàng trực tuyến. Sản phẩm đầu ra của dự án là 1 hệ thống hoàn chỉnh có thể sử dụng các chức năng. 
 
